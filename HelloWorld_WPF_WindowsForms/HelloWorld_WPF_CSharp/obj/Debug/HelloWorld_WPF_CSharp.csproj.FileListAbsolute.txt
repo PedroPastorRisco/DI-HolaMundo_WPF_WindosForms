@@ -1,0 +1,15 @@
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\bin\Debug\HelloWorld_WPF_CSharp.exe.config
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\bin\Debug\HelloWorld_WPF_CSharp.exe
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\bin\Debug\HelloWorld_WPF_CSharp.pdb
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\obj\Debug\HelloWorld_WPF_CSharp.csprojAssemblyReference.cache
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\obj\Debug\MainWindow.g.cs
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\obj\Debug\App.g.cs
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\obj\Debug\HelloWorld_WPF_CSharp_MarkupCompile.cache
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\obj\Debug\HelloWorld_WPF_CSharp_MarkupCompile.lref
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\obj\Debug\MainWindow.baml
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\obj\Debug\HelloWorld_WPF_CSharp.g.resources
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\obj\Debug\HelloWorld_WPF_CSharp.Properties.Resources.resources
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\obj\Debug\HelloWorld_WPF_CSharp.csproj.GenerateResource.cache
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\obj\Debug\HelloWorld_WPF_CSharp.csproj.CoreCompileInputs.cache
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\obj\Debug\HelloWorld_WPF_CSharp.exe
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\obj\Debug\HelloWorld_WPF_CSharp.pdb
