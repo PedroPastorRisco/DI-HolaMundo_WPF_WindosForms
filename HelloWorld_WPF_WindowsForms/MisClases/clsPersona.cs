@@ -16,9 +16,17 @@ namespace MisClases
         }
 
         #endregion
+        #region constructores
+        //constructor por defecto
+        public clsPersona()
+        {
+
+        }
+        //constructor por parámetros
         public clsPersona(string nombre)
         {
             Nombre = nombre;
         }
+        #endregion
     }
 }

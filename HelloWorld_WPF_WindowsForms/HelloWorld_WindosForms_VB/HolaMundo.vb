@@ -1,15 +1,17 @@
-﻿Public Class HolaMundo
+﻿Imports MisClases
+Public Class HolaMundo
     ''' <summary>
     ''' 
     ''' </summary>
     ''' <param name="sender"></param>
     ''' <param name="e"></param>
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        MessageBox.Show("Hola " + txtNombre.Text)
-
-    End Sub
-
-    Private Sub HolaMundo_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
+        Dim oPersona As clsPersona
+        If (String.IsNullOrEmpty(txtNombre.Text)) Then
+            MessageBox.Show("No dejes el campo en blanco que mi mami se enfada")
+        Else
+            oPersona = New clsPersona(txtNombre.Text)
+            MessageBox.Show("Hola " + oPersona.Nombre)
+        End If
     End Sub
 End Class

@@ -34,15 +34,16 @@ namespace HelloWorld_WPF_CSharp
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             clsPersona persona;
-            if (textBox1.Text != "") 
+            
+
+            if (!String.IsNullOrEmpty(txtNombre.Text)) 
             {
-                persona = new clsPersona(textBox1.Text);
-                MessageBox.Show($"Hola {persona.Nombre}");
+                persona = new clsPersona(txtNombre.Text);
+                MessageBox.Show($"Hola {persona.Nombre},eres un crack");
             }
             else
             {
-                MessageBox.Show("No deje el campo vacio");
-
+                MessageBox.Show("No dejes el campo vacio que mi mama se enfada");
             }
 
             

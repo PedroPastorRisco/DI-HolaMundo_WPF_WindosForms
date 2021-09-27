@@ -10,3 +10,6 @@ D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_Wi
 D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WindosForms_VB\obj\Debug\HelloWorld_WindosForms_VB.exe
 D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WindosForms_VB\obj\Debug\HelloWorld_WindosForms_VB.xml
 D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WindosForms_VB\obj\Debug\HelloWorld_WindosForms_VB.pdb
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WindosForms_VB\bin\Debug\MisClases.dll
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WindosForms_VB\bin\Debug\MisClases.pdb
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WindosForms_VB\obj\Debug\HelloWorld_WindosForms_VB.vbproj.CopyComplete
