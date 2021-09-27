@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XOQJo2J+0rMYgyStGCDkX12ofDXoNhPb5Fw2mXwD+IAF/KxzI57n5tSe1Y0pPl9aVZNNxp9E0hDJJu55rCp0dg==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\DI HolaMundo_WPF_WindosForms\\HelloWorld_WPF_WindowsForms\\MisClases\\MisClases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ppastor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ppastor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

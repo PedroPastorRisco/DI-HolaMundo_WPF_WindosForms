@@ -13,3 +13,6 @@ D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WP
 D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\obj\Debug\HelloWorld_WPF_CSharp.csproj.CoreCompileInputs.cache
 D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\obj\Debug\HelloWorld_WPF_CSharp.exe
 D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\obj\Debug\HelloWorld_WPF_CSharp.pdb
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\bin\Debug\MisClases.dll
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\bin\Debug\MisClases.pdb
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\HelloWorld_WPF_CSharp\obj\Debug\HelloWorld_WPF_CSharp.csproj.CopyComplete

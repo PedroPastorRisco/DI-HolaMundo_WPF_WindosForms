@@ -1,0 +1,9 @@
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\MisClases\bin\Debug\netstandard2.0\MisClases.deps.json
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\MisClases\bin\Debug\netstandard2.0\MisClases.dll
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\MisClases\bin\Debug\netstandard2.0\MisClases.pdb
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\MisClases\obj\Debug\netstandard2.0\MisClases.csprojAssemblyReference.cache
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\MisClases\obj\Debug\netstandard2.0\MisClases.AssemblyInfoInputs.cache
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\MisClases\obj\Debug\netstandard2.0\MisClases.AssemblyInfo.cs
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\MisClases\obj\Debug\netstandard2.0\MisClases.csproj.CoreCompileInputs.cache
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\MisClases\obj\Debug\netstandard2.0\MisClases.dll
+D:\GitHub\DI HolaMundo_WPF_WindosForms\HelloWorld_WPF_WindowsForms\MisClases\obj\Debug\netstandard2.0\MisClases.pdb

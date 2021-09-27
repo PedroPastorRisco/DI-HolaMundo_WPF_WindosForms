@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using MisClases;
+
 
 namespace HelloWorld_WPF_CSharp
 {
@@ -24,11 +26,27 @@ namespace HelloWorld_WPF_CSharp
         {
             InitializeComponent();
         }
-
+        /// <summary>
+        /// Evento asociado al click del botón "saludar" que muestra un mensaje de texto.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            String texto = textBox1.Text;
-            MessageBox.Show("Hola " + texto);
+            clsPersona persona;
+            if (textBox1.Text != "") 
+            {
+                persona = new clsPersona(textBox1.Text);
+                MessageBox.Show($"Hola {persona.Nombre}");
+            }
+            else
+            {
+                MessageBox.Show("No deje el campo vacio");
+
+            }
+
+            
+            
         }
 
         
